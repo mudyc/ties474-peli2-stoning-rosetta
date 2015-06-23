@@ -1,0 +1,51 @@
+
+[
+  {
+    "color": "#FFFF00",
+    "es": "amarillo",
+    "en": "yellow",
+    "fi": "keltainen"
+  },
+  {
+    "color": "#FFA500",
+    "es": "anaranjado",
+    "en": "orange",
+    "fi": "oranssi"
+  },
+  {
+    "color": "#0000FF",
+    "es": "azul",
+    "en": "blue",
+    "fi": "sininen"
+  },
+  {
+    "color": "#FFFFFF",
+    "es": "blanco",
+    "en": "white",
+    "fi": "valkoinen"
+  },
+  {
+    "color": "#808080",
+    "es": "gris",
+    "en": "gray",
+    "fi": "harmaa"
+  },
+  {
+    "color": "#A52A2A",
+    "es": "marrón",
+    "en": "brown",
+    "fi": "ruskea"
+  },
+  {
+    "color": "#800080",
+    "es": "morado",
+    "en": "purple",
+    "fi": "violetti"
+  },
+  {
+    "color": "#000000",
+    "es": "negro",
+    "en": "black",
+    "fi": "musta"
+  }
+]

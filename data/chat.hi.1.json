@@ -1,0 +1,51 @@
+[
+  {
+    "dir": ">",
+    "en": "Hi, how are you?",
+    "es": "Hola, que tal?",
+    "fi": "Hei, mitä kuuluu?"
+  },
+  {
+    "dir": "<",
+    "en": "Fine, thanks.",
+    "es": "Bien, gracias",
+    "fi": "Hyvää, kiitos"
+  },
+  {
+    "dir": "<",
+    "en": "And you?",
+    "es": "Y tu?",
+    "fi": "Entä sinulle?"
+  },
+  {
+    "dir": ">",
+    "en": "Very good",
+    "es": "Muy bien",
+    "fi": "Oikein hyvää"
+  },
+  {
+    "dir": "<",
+    "en": "What is your name?",
+    "es": "Como te llamas?",
+    "fi": "Mikä sinun nimesi on?"
+  },
+  {
+    "dir": ">",
+    "en": "My name is Jon",
+    "es": "Me llamo Jon",
+    "fi": "Minun nimeni on Jon"
+  },
+  {
+    "dir": "<",
+    "en": "Nice to meet you",
+    "es": "Mucho gusto",
+    "fi": "Hauska tutustua"
+  },
+  {
+    "dir": ">",
+    "en": "Nice to meet you too",
+    "es": "Encantado también",
+    "fi": "Hauska tutustua myös"
+  }
+
+]
