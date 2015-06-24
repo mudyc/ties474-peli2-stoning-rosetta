@@ -1,0 +1,14 @@
+
+HOW TO INSTALL AND RUN
+======================
+
+git clone https://github.com/mudyc/ties474-peli2-stoning-rosetta.git
+cd ties474-peli2-stoning-rosetta
+
+# 1 option
+python -m SimpleHTTPServer
+browse to http://localhost:8000/game.html
+
+# 2 option
+webfsd -F
+browse to http://localhost:8000/game.html
